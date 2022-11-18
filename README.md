@@ -15,7 +15,7 @@ Update to portfolio website.
  
 
 ## WEBSITE LINK
-https://evening-hollows-21055.herokuapp.com/
+https://demetriuscarter.github.io/Portfolio-11-17-22/
 
 
 ## TECHNOLOGIES USED
